@@ -1,0 +1,18 @@
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  min-height: 100vh;
+  background-image: url(./image/avatar1.jpg);
+}
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  min-height: 100vh;
+  background-image: url(./image/avatar2.jpg);
+}
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  min-height: 100vh;
+  background-image: url(./image/avatar3.jpg);
+}
